@@ -21,3 +21,6 @@ Here are some ideas to get you started:
  - 🌱 I’m currently learning Swiftui,Swift,Uikit,iOS,Java
  - 🔭 I’m currently working on kookmin 
  - 💬 Ask me about -> yysskk99999@naver.com
+
+
+#85EA2D
