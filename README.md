@@ -23,4 +23,3 @@ Here are some ideas to get you started:
  - 💬 Ask me about -> yysskk99999@naver.com
 
 
-#85EA2D
