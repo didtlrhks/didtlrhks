@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdidtlrhks&count_bg=%2379C83D&title_bg=%23555555&icon=coursera.svg&icon_color=%23EB0000&title=swift&edge_flat=true)](https://hits.seeyoufarm.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yysskk99999&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=didtlrhks&show_icons=true&theme=radical)
