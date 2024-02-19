@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
  ### How Are You Today 👋
  - 🌱 I’m currently learning Swiftui,Swift,Uikit,iOS,Java
- - 🔭 I’m currently working on kookmin 
+ - 🔭 I’m currently working on KookminUniversity
  - 💬 Ask me about -> yysskk99999@naver.com
  - Tistory -> https://yangdlog-99.tistory.com/
 
