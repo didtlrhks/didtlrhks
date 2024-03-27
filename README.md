@@ -22,6 +22,7 @@ Here are some ideas to get you started:
  - 🔭 I’m currently working on KookminUniversity
  - 💬 Ask me about -> yysskk99999@naver.com
  - Tistory -> https://yangdlog-99.tistory.com/
+ - Notion -> https://www.notion.so/Resume-790c5928f54042f185ec97205d4c3f05?pvs=4
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdidtlrhks&count_bg=%2379C83D&title_bg=%23555555&icon=coursera.svg&icon_color=%23EB0000&title=swift&edge_flat=true)](https://hits.seeyoufarm.com)
